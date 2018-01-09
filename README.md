@@ -1,0 +1,2 @@
+# BGCoin
+BGCoin
